@@ -25,7 +25,8 @@ Our solution requires three parts:
 
 ## Player Detection 
 
-![image](https://user-images.githubusercontent.com/35584782/151681272-b6460826-923e-49df-90d7-1cf6de7d65eb.png)
+
+![image](https://user-images.githubusercontent.com/35584782/151681372-0f1aa465-acfb-4402-8ed5-12eebd3cffe0.png)
 
 ## Multi Object Trackers
 
